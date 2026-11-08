@@ -48,15 +48,19 @@ Explore my repositories for projects related to:
 - 🗄️ Database Management
 - 🤖 Artificial Intelligence & Machine Learning
 
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=devendraarikala&show_icons=true&theme=tokyonight&hide_border=true)
+### GitHub Stats
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=devendraarikala&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=devendraarikala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+### Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=devendraarikala&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+### GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devendraarikala&theme=tokyonight&hide_border=true)
-
 
 ## 🤝 Connect With Me
 
